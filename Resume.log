@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7440 64-bit) (preloaded format=xelatex 2020.6.23)  14 JUL 2020 23:57
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7440 64-bit) (preloaded format=xelatex 2020.6.23)  31 AUG 2020 13:57
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -936,7 +936,7 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 15.
 
-Overfull \hbox (30.79791pt too wide) in alignment at lines 10--54
+Overfull \hbox (25.2879pt too wide) in alignment at lines 10--47
 [] [] 
  []
 
@@ -974,7 +974,7 @@ Package rerunfilecheck Info: File `Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  31877 strings out of 414083
  617972 string characters out of 2898444
- 1061279 words of memory out of 3000000
+ 1061285 words of memory out of 3000000
  49027 multiletter control sequences out of 15000+200000
  534998 words of font info for 96 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
