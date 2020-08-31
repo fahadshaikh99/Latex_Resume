@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7440 64-bit) (preloaded format=xelatex 2020.6.23)  31 AUG 2020 13:57
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7440 64-bit) (preloaded format=xelatex 2020.6.23)  31 AUG 2020 14:08
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -959,23 +959,23 @@ able
 t line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 22.
-) (resume/projects.tex) (resume/experience.tex)
-(resume/writing.tex) [1
+) (resume/projects.tex) (resume/experience.tex) [1
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
- (Resume.aux)
+
+(Resume.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 109.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31877 strings out of 414083
- 617972 string characters out of 2898444
- 1061285 words of memory out of 3000000
- 49027 multiletter control sequences out of 15000+200000
+ 31873 strings out of 414083
+ 617911 string characters out of 2898444
+ 1060285 words of memory out of 3000000
+ 49026 multiletter control sequences out of 15000+200000
  534998 words of font info for 96 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,11n,112p,799b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
